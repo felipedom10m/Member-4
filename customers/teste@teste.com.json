@@ -3,9 +3,10 @@
   "produto": "Member-4",
   "upsells_comprados": [
     1,
-    2
+    2,
+    3
   ],
-  "data": "2025-08-07T12:08:42.490Z",
-  "transacao_id": "test-card-1754568522490",
+  "data": "2025-08-07T12:18:04.141Z",
+  "transacao_id": "test-card-1754569084141",
   "acesso_liberado": true
 }
